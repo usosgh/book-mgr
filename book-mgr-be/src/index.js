@@ -38,3 +38,4 @@ connect().then(() => {
     console.log('启动成功');
   });
 });
+console.log('112233');
